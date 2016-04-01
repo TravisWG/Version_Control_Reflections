@@ -13,3 +13,7 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 	If you have the last known state of the remote stored locally, you can merge the changes you have made with the last known state of the remote and then push those changes to the GitHub repository.  Alternatively, you could make changes to that last known state directly and then merge those to your master branch (if not currently in master).
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	Collaborating without GitHub would likely entail detailing what changes you made to a file, likely the location of the changes, and forwarding a copy of the file to the other collaborators.  I cannot see many benefits to collaborating without GitHub, but the convenient access to files and frequent communication would make collaborating much easier.
